@@ -89,7 +89,7 @@ Optimistically updating a path.
 </Fetch>
 ```
 
-Check out the [example](/example) for more. It's running <a href="https://reactions.github.io/fetch">here</a>.
+Check out the [example](/example) for more. It's running <a href="https://reactions.github.io/fetch">here</a> and you can find a CodeSandbox demo <a href="https://codesandbox.io/s/github/reactions/fetch/tree/master/example">here</a>.
 
 ## Legal
 
